@@ -1,0 +1,3 @@
+# Keep the generated site byte-for-byte as exported (no line-ending conversion)
+docs/** -text
+*.RDS binary
