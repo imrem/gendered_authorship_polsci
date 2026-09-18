@@ -2,7 +2,7 @@
 
 Interactive dashboard accompanying
 
-> Gahn, C., and M. Imre. "Mechanical Change or Systematic Disparity? Gendered Authorship in Political Science Publishing Across Five Decades." *Perspectives on Politics* (conditionally accepted).
+> CG and MI. "Mechanical Change or Systematic Disparity? Gendered Authorship in Political Science Publishing Across Five Decades." *Perspectives on Politics* (conditionally accepted).
 
 **Live app: <https://imrem.github.io/gendered_authorship_polsci/>**
 

@@ -49,7 +49,7 @@ ui <- fluidPage(
   ),
   tags$p(
     class = "text-muted", style = "margin: 0 0 15px 0;",
-    "Companion to “Mechanical Change or Systematic Disparity? Gendered Authorship in Political Science Publishing Across Five Decades” by C. Gahn and M. Imre, ",
+    "Companion to “Mechanical Change or Systematic Disparity? Gendered Authorship in Political Science Publishing Across Five Decades” by CG and MI, ",
     tags$em("Perspectives on Politics"), " (conditionally accepted)"
   ),
   sidebarLayout(
@@ -199,7 +199,7 @@ server <- function(input, output, session) {
     title = "How to Use This App",
     tags$p("This dashboard accompanies the article ",
            tags$b("“Mechanical Change or Systematic Disparity? Gendered Authorship in Political Science Publishing Across Five Decades”"),
-           " by C. Gahn and M. Imre, conditionally accepted at ", tags$em("Perspectives on Politics", .noWS = "after"),
+           " by CG and MI, conditionally accepted at ", tags$em("Perspectives on Politics", .noWS = "after"),
            ", and visualises the gender composition of authors in political science journals over time."),
     tags$hr(),
     tags$h4("Display Options"),
